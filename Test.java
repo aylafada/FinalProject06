@@ -6,5 +6,6 @@ public class Test{
         System.out.println("aku mau pulang pls");
         System.out.println("kapan ya kita pulang? pengen turu");
         System.out.println("pengen makan seblak");
+        System.out.println("Ga FOMO ga asik");
     }
 }
