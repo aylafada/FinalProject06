@@ -4,5 +4,6 @@ public class Test{
         System.out.println("Hi, ini baris kode pertama");
         System.out.println("Ini baris kode program kedua hehehe");
         System.out.println("aku mau pulang pls");
+        System.out.println("Ga FOMO ga asik");
     }
 }
